@@ -1,7 +1,10 @@
 # Pedagogical Resources {#pedagogical-resources status=draft}
 
 A suite of pedagogical resources are provided that allow the an instructor to select how to present the material through different mechanisms in accordance with current educational principles
+
+
 TODO: cite education paper
+
 <!-- [](#bib:tani16duckietown). -->
 
 
@@ -12,23 +15,23 @@ The background materials can be made available to students prior to the start of
 
 ### Theory Preliminaries
 
-Theoritical background information is contained in the [](#book:preliminaries). 
+Theoritical background information is contained in the [](+preliminaries#preliminaries). 
 
 ### Software Reference
 
-Software reference material is contained in the [](#book:sw-carpentry).
+Software reference material is contained in the [](+software_reference#sw-carpentry).
 
 
 ## Lecture Material
 
-There are several different types of resources available [](#book:learning-materials) for use in classes and as learning aides for students. 
+There are several different types of resources available at [](+learning_materials#learning-materials) for use in classes and as learning aides for students. 
 
 In general, the material is divided into "Units", where each unit is supported by some or all of the following: slides, written theory, python notebooks, exercises, and robot demonstrations.
 
 
 ### Slides
 
-Slides are written directly in Markdown in this book. For example [](#autonomous-vehicles-slides). For information on how to create your own slides in this format see [](#making-slides).
+Slides are written directly in Markdown in this book. For example [](+learning_materials#autonomous-vehicles-slides). For information on how to create your own slides in this format see [](+duckumentation#making-slides).
 
 Generally, which each slide presentation there is accompanying theory in the book in the same section. 
 
@@ -49,7 +52,7 @@ TODO: Liam
 
 ## Exercises
 
-[](+exercises#exercises) are provided to help students master the material. They can optionally be used as graded homework assignments. Solutions are provided in a separate private [repository](https://github.com/duckietown/XX-exercises) that you should have access to if you are registered instructor of the course (follow the instructions on [here](www2.duckietown.org/guide-for-instructors). 
+[](+exercises#exercises) are provided to help students master the material. They can optionally be used as graded homework assignments. Solutions are provided in a separate private [repository](https://github.com/duckietown/XX-exercises) that you should have access to if you are registered instructor of the course (follow the instructions on [here](http://www2.duckietown.org/guide-for-instructors). 
 
 
 
@@ -57,4 +60,4 @@ TODO: Liam
 
 The backbone of the class and the entire project is the Duckiebot platform and the Duckietown environment. It is **required** that you build a Duckietown to support your class. Space can be an issue, but this is really the best part.
 
-The instructions for building the Duckiebot are provided in [](#book:opmanual_duckiebot) and the instructions for building a conforming Duckietown are given in [](#book:duckietowns). The [](#book:opmanual_duckiebot) contains all the necessary information for assembly, calibration, troubleshooting, and running of the demos. The demos include basic [](#demo-lane-following), [](#sec:demo-indefinite-navigation) (the Duckiebot reads the road signs and takes a random feasible action),  and multi-robot operations such as [](#demo-coordination2017), and many others (the list continually grows).
+The instructions for building the Duckiebot are provided in [](+opmanual_duckiebot#opmanual_duckiebot) and the instructions for building a conforming Duckietown are given in [](+opmanual_duckiebot#duckietowns). The [](+opmanual_duckiebot#opmanual_duckiebot) contains all the necessary information for assembly, calibration, troubleshooting, and running of the demos. The demos include basic [](+opmanual_duckiebot#demo-lane-following), [](+opmanual_duckiebot#demo-indefinite-navigation) (the Duckiebot reads the road signs and takes a random feasible action),  and multi-robot operations such as [](+opmanual_duckiebot#demo-coordination2017), and many others (the list continually grows).
