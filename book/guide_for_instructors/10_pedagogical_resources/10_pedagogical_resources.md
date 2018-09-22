@@ -52,7 +52,7 @@ TODO: Liam
 
 ## Exercises
 
-[](+exercises#exercises) are provided to help students master the material. They can optionally be used as graded homework assignments. Solutions are provided in a separate private [repository](https://github.com/duckietown/XX-exercises) that you should have access to if you are registered instructor of the course (follow the instructions on [here](http://www2.duckietown.org/guide-for-instructors). 
+[](+exercises#exercises) are provided to help students master the material. They can optionally be used as graded homework assignments. Solutions are provided in a separate private [repository](https://github.com/duckietown/XX-exercises) that you should have access to if you are registered instructor of the course (follow the instructions on [here](https://www.duckietown.org/guide-for-instructors). 
 
 
 
