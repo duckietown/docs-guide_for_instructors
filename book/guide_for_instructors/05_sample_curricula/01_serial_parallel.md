@@ -1,4 +1,4 @@
-# The Serial Parallel Model {#serial-parallel status=draft}
+# The Serial Parallel Model {#serial-parallel status=ready}
 
 
 In the "serial-parallel" model, the class is divided into two distinct sections as shown in [](#fig:serial-parallel).
@@ -8,9 +8,9 @@ In the "serial-parallel" model, the class is divided into two distinct sections 
     <img style='width:30em' src="serial-parallel.png"/>
 </figure>
 
-In the first part is a basic primer on autonomy and contains a high breadth low depth introduction to all topics relevant to autonomy. This includes: autonomy architectures, software architectures, actuation, signal processing, kinematics and dynamics, computer vision and sensing, filtering and estimation, mission and motion planning, control. During this first part, students incrementally build and demonstrate capabilities on the Duckiebot synchronously with the class. Exercises are used to build up the students' basic skills of programming, computer vision, linear algebra, and others. 
+In the first part is a basic primer on autonomy and contains a high breadth low depth introduction to all topics relevant to autonomy. This includes: autonomy architectures, software architectures, actuation, signal processing, kinematics and dynamics, computer vision and sensing, filtering and estimation, mission and motion planning, control. During this first part, students incrementally build and demonstrate capabilities on the Duckiebot synchronously with the class. Exercises are used to build up the students' basic skills of programming, computer vision, linear algebra, and others.
 
-The second part of the class is much more free form. Normally, the class projects will be announced at the end of the first part and students will be primarily focused on completing their projects. Lectures become more free-form and are more advanced topics, such as: high-level perception (semantic segmentation, object detection, SLAM, ...), fleet level planning and mobility on demand, advanced control algorithms. 
+The second part of the class is much more free form. Normally, the class projects will be announced at the end of the first part and students will be primarily focused on completing their projects. Lectures become more free-form and are more advanced topics, such as: high-level perception (semantic segmentation, object detection, SLAM, ...), fleet level planning and mobility on demand, advanced control algorithms.
 
 A sample curriculum is given in the table below. Each entry in the table corresponds to a unit. Units may comprise different types of resources. For more details on the available resources for a unit please refer to [](#pedagogical-resources). Generally, for each unit, materials are presented in the form of traditional lecture slides and then supported by interactive python notebook instructionals. Lecture videos and theory material contained in the book is left as a reference for students. Concepts are then reinforced through the exercises and robot demonstrations.
 

@@ -1,4 +1,4 @@
-# Pedagogical Resources {#pedagogical-resources status=draft}
+# Pedagogical Resources {#pedagogical-resources status=ready}
 
 A suite of pedagogical resources are provided that allow the an instructor to select how to present the material through different mechanisms in accordance with current educational principles
 
@@ -11,11 +11,11 @@ TODO: cite education paper
 
 ## Background Materials
 
-The background materials can be made available to students prior to the start of the class as and can be used to learn theory and build skills that will be useful in the class. 
+The background materials can be made available to students prior to the start of the class as and can be used to learn theory and build skills that will be useful in the class.
 
 ### Theory Preliminaries
 
-Theoritical background information is contained in the [](+preliminaries#preliminaries). 
+Theoritical background information is contained in the [](+preliminaries#preliminaries).
 
 ### Software Reference
 
@@ -24,7 +24,7 @@ Software reference material is contained in the [](+software_reference#sw-carpen
 
 ## Lecture Material
 
-There are several different types of resources available at [](+learning_materials#learning-materials) for use in classes and as learning aides for students. 
+There are several different types of resources available at [](+learning_materials#learning-materials) for use in classes and as learning aides for students.
 
 In general, the material is divided into "Units", where each unit is supported by some or all of the following: slides, written theory, python notebooks, exercises, and robot demonstrations.
 
@@ -33,14 +33,14 @@ In general, the material is divided into "Units", where each unit is supported b
 
 Slides are written directly in Markdown in this book. For example [](+learning_materials#autonomous-vehicles-slides). For information on how to create your own slides in this format see [](+duckumentation#making-slides).
 
-Generally, which each slide presentation there is accompanying theory in the book in the same section. 
+Generally, which each slide presentation there is accompanying theory in the book in the same section.
 
 
 ### Lecture Videos
 
-Video lectures will be posted for each unit. See here for more details soon. 
+Video lectures will be posted for each unit. See here for more details soon.
 
-TODO: Liam 
+TODO: Liam
 
 
 ### Python Notebooks
@@ -52,7 +52,7 @@ TODO: Liam
 
 ## Exercises
 
-[](+exercises#exercises) are provided to help students master the material. They can optionally be used as graded homework assignments. Solutions are provided in a separate private [repository](https://github.com/duckietown/XX-exercises) that you should have access to if you are registered instructor of the course (follow the instructions on [here](https://www.duckietown.org/guide-for-instructors). 
+[](+exercises#exercises) are provided to help students master the material. They can optionally be used as graded homework assignments. Solutions are provided in a separate private [repository](https://github.com/duckietown/XX-exercises) that you should have access to if you are registered instructor of the course (follow the instructions on [here](https://www.duckietown.org/guide-for-instructors).
 
 
 

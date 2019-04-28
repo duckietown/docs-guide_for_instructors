@@ -1,4 +1,4 @@
-# How to Use This Guide {#how-to-use-this-guide status=draft}
+# How to Use This Guide {#how-to-use-this-guide status=beta}
 
 There are *two* distinct possible users of this class guide:
 
